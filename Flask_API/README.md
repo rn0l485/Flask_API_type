@@ -1,7 +1,5 @@
 #SRE Task
 
-Hi, this README document is for the SRE task from Klarna.
-
 This task is done by Python's framework, Flask, and the monitoring tool are Prometheus and Grafana.
 
 The OS system I used is Mac OS. I'll introduce how to use the web service at below.
